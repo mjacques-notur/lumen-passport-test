@@ -1,5 +1,5 @@
 {
-    "name": "mjacques3/lumen-passport",
+    "name": "mjacques3/lumen-passport-test",
     "type": "library",
     "description": "Making Laravel Passport work with Lumen",
     "keywords": ["php","lumen","laravel passport"],
